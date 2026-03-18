@@ -15,7 +15,12 @@ This is a Python script used to scrape news articles from the daryo.uz website.
    pip install -r requirements.txt
    ```
 
-3. Run the script:
+3. Run the script to get all the links:
+   ```bash
+   python scrape.py
+   ```
+
+4. After the first script is finished, run this script:
    ```bash
    python scrape.py
    ```
